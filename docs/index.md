@@ -1,16 +1,6 @@
 # Machine Learning & Data Science Consultant
 
-I am a Data Science Consultant at QuantumBlack, AI by McKinsey, where I help organizations transform their operations through advanced analytics. I work client-facing on end-to-end advanced machine learning projects across several industries (e.g., k-means customer segmentation pipelines, time-series forecasting models, etc.). Much of my work combines technical implementation, stakeholder alignment, and translating complex analytics into actionable recommendations.
-
-## Background
-
-I hold a Master's degree in Engineering and Management from the University of Cambridge, building on a Bachelor's in Mechanical Engineering from Mannheim.
-
-As a Data Science Consultant at QuantumBlack, McKinsey's AI and Machine Learning arm, I work across Consumer, Pharma, and TMT clients, contributing to projects that combine analytics, strategy, and product thinking. In this client-facing role, I collaborate with engineers, product teams, and senior stakeholders to translate analytical insights into clear recommendations and strategic materials that support decision-making on high-impact initiatives.
-
-Previously, as Consultant in McKinsey's Operations Practice, I supported an analytics workstream for a German advanced-industries client, contributing to strategic value analysis, market benchmarking, and operational improvement efforts. At the University of Cambridge, I worked on forecasting and strategic modeling projects for manufacturing SMEs and startups, helping clients translate data into commercial and operational strategies. Earlier, during my trainee program at ABB, I gained hands-on experience in process improvement and operational analysis across engineering and supply-chain functions.
-
-These experiences have reinforced my ambition to work at the intersection of strategy, technology, and product innovation.
+I am a Data Science Consultant at QuantumBlack, AI by McKinsey, where I help organizations transform their operations through advanced analytics. I work client-facing on end-to-end advanced machine learning projects across several industries. Much of my work combines technical implementation, stakeholder alignment, and translating complex analytics into actionable recommendations.
 
 ## What I Do
 
@@ -26,6 +16,16 @@ These experiences have reinforced my ambition to work at the intersection of str
 - [Demand Forecasting](./projects/forecasting.md) — Pharma client: univariate and multivariate forecasting with external time-series integration, explainability via SHAP
 - [Defect Forecasting](./projects/defect_forecasting.md) — Manufacturing analytics client: classification model for time-series defect prediction, evaluation and explainability, AWS experimentation, Dockerized pipeline
 
+## Background
+
+I hold a Master's degree in Engineering and Management from the University of Cambridge, building on a Bachelor's in Mechanical Engineering from Mannheim.
+
+As a Data Science Consultant at QuantumBlack, McKinsey's AI and Machine Learning arm, I work across Consumer, Pharma, and TMT clients, contributing to projects that combine analytics, strategy, and product thinking. In this client-facing role, I collaborate with engineers, product teams, and senior stakeholders to translate analytical insights into clear recommendations and strategic materials that support decision-making on high-impact initiatives.
+
+Previously, as Consultant in McKinsey's Operations Practice, I supported an analytics workstream for a German advanced-industries client, contributing to strategic value analysis, market benchmarking, and operational improvement efforts. At the University of Cambridge, I worked on forecasting and strategic modeling projects for manufacturing SMEs and startups, helping clients translate data into commercial and operational strategies. Earlier, during my trainee program at ABB, I gained hands-on experience in process improvement and operational analysis across engineering and supply-chain functions.
+
+These experiences have reinforced my ambition to work at the intersection of strategy, technology, and product innovation.
+
 ## Toolbox
 
 **Languages & Frameworks**: Python, R, SQL  
@@ -38,4 +38,4 @@ These experiences have reinforced my ambition to work at the intersection of str
 ## Contact
 
 - Email: <max_haehn@gmx.de>
-- LinkedIn: <linkedin.com/in/max-haehn>
+- LinkedIn: <https://www.linkedin.com/in/max-haehn/>
